@@ -1,0 +1,23 @@
+Configuring easy-file-0.2.1...
+Building easy-file-0.2.1...
+Preprocessing library easy-file-0.2.1...
+[1 of 4] Compiling System.EasyFile.Missing ( System/EasyFile/Missing.hs, dist/dist-sandbox-4fb45de7/build/System/EasyFile/Missing.o )
+
+System/EasyFile/Missing.hs:7:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[2 of 4] Compiling System.EasyFile.Directory ( System/EasyFile/Directory.hs, dist/dist-sandbox-4fb45de7/build/System/EasyFile/Directory.o )
+
+System/EasyFile/Directory.hs:37:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+[3 of 4] Compiling System.EasyFile.FilePath ( System/EasyFile/FilePath.hs, dist/dist-sandbox-4fb45de7/build/System/EasyFile/FilePath.o )
+[4 of 4] Compiling System.EasyFile  ( System/EasyFile.hs, dist/dist-sandbox-4fb45de7/build/System/EasyFile.o )
+In-place registering easy-file-0.2.1...
+Creating package registration file:
+/var/folders/kt/382lbbtj623_y_8xznrgbs9mb8d0_d/T/pkgConf-easy-file-0.2915896220304987844.1
+Installing library in
+/Users/gpeterson/code/haskell/scotty-first/.cabal-sandbox/lib/x86_64-osx-ghc-7.10.1/easyf_KD4AH015lCE5eD8OqSVoyb
+Registering easy-file-0.2.1...

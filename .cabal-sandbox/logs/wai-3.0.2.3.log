@@ -10,7 +10,7 @@ Network/Wai.hs:89:1: Warning:
     To import instances alone, use: import Data.Monoid()
 In-place registering wai-3.0.2.3...
 Creating package registration file:
-/var/folders/kt/382lbbtj623_y_8xznrgbs9mb8d0_d/T/pkgConf-wai-3.0.2843998877959637304.3
+/var/folders/kt/382lbbtj623_y_8xznrgbs9mb8d0_d/T/pkgConf-wai-3.0.21304835690270438666.3
 Installing library in
 /Users/gpeterson/code/haskell/scotty-first/.cabal-sandbox/lib/x86_64-osx-ghc-7.10.1/wai_4ontxkCo6ME7wlO5KezkMs
 Registering wai-3.0.2.3...

@@ -37,7 +37,7 @@ Control/Monad/Primitive.hs:99:19: Warning:
 [10 of 10] Compiling Data.Primitive.MutVar ( Data/Primitive/MutVar.hs, dist/dist-sandbox-4fb45de7/build/Data/Primitive/MutVar.o )
 In-place registering primitive-0.6...
 Creating package registration file:
-/var/folders/kt/382lbbtj623_y_8xznrgbs9mb8d0_d/T/pkgConf-primitive-0577163951524325968.6
+/var/folders/kt/382lbbtj623_y_8xznrgbs9mb8d0_d/T/pkgConf-primitive-02721122891398556760.6
 Installing library in
 /Users/gpeterson/code/haskell/scotty-first/.cabal-sandbox/lib/x86_64-osx-ghc-7.10.1/primi_4EFP5cvZDduIYCPc8lT1lV
 Registering primitive-0.6...

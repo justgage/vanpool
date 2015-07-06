@@ -34,7 +34,7 @@ Text/Regex.hs:80:1: Warning: Tab character
 Text/Regex.hs:81:1: Warning: Tab character
 In-place registering regex-compat-0.95.1...
 Creating package registration file:
-/var/folders/kt/382lbbtj623_y_8xznrgbs9mb8d0_d/T/pkgConf-regex-compat-0.9510040168551732267506.1
+/var/folders/kt/382lbbtj623_y_8xznrgbs9mb8d0_d/T/pkgConf-regex-compat-0.95293034748855007065.1
 Installing library in
 /Users/gpeterson/code/haskell/scotty-first/.cabal-sandbox/lib/x86_64-osx-ghc-7.10.1/regex_DsaThvjcDpRGceYPQ2iyOg
 Registering regex-compat-0.95.1...

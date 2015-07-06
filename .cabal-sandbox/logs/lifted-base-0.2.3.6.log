@@ -39,7 +39,7 @@ Control/Concurrent/Lifted.hs:4:14: Warning:
     ‘Control.Concurrent.Lifted’ is marked as Trustworthy but has been inferred as safe!
 In-place registering lifted-base-0.2.3.6...
 Creating package registration file:
-/var/folders/kt/382lbbtj623_y_8xznrgbs9mb8d0_d/T/pkgConf-lifted-base-0.2.3159282276141000625.6
+/var/folders/kt/382lbbtj623_y_8xznrgbs9mb8d0_d/T/pkgConf-lifted-base-0.2.341654197624301412.6
 Installing library in
 /Users/gpeterson/code/haskell/scotty-first/.cabal-sandbox/lib/x86_64-osx-ghc-7.10.1/lifte_GrMVSqDlJvTJWFQn4noxA6
 Registering lifted-base-0.2.3.6...

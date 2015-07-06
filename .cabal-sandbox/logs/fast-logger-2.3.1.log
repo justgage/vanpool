@@ -19,7 +19,7 @@ System/Log/FastLogger.hs:31:1: Warning:
     To import instances alone, use: import Control.Applicative()
 In-place registering fast-logger-2.3.1...
 Creating package registration file:
-/var/folders/kt/382lbbtj623_y_8xznrgbs9mb8d0_d/T/pkgConf-fast-logger-2.3459244054458588260.1
+/var/folders/kt/382lbbtj623_y_8xznrgbs9mb8d0_d/T/pkgConf-fast-logger-2.32906237201135048762.1
 Installing library in
 /Users/gpeterson/code/haskell/scotty-first/.cabal-sandbox/lib/x86_64-osx-ghc-7.10.1/fastl_0vDcX5FedvzLqoeilAC7pr
 Registering fast-logger-2.3.1...

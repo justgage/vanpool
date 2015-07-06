@@ -33,7 +33,7 @@ src/Data/Vault/ST/ST.hs:13:1: Warning:
 [5 of 5] Compiling Data.Vault.Lazy  ( src/Data/Vault/Lazy.hs, dist/dist-sandbox-4fb45de7/build/Data/Vault/Lazy.o )
 In-place registering vault-0.3.0.4...
 Creating package registration file:
-/var/folders/kt/382lbbtj623_y_8xznrgbs9mb8d0_d/T/pkgConf-vault-0.3.02906237201135048762.4
+/var/folders/kt/382lbbtj623_y_8xznrgbs9mb8d0_d/T/pkgConf-vault-0.3.011647804183559274.4
 Installing library in
 /Users/gpeterson/code/haskell/scotty-first/.cabal-sandbox/lib/x86_64-osx-ghc-7.10.1/vault_K0twBwHKj5o57blu4qFWPb
 Registering vault-0.3.0.4...
